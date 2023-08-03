@@ -47,6 +47,8 @@
             </includes>
             <lineEnding>unix</lineEnding>
             <fileMode>755</fileMode>
+            <!-- searching for properties in files -->
+            <filtered>true</filtered>
         </fileSet>
     </fileSets>
 </assembly>

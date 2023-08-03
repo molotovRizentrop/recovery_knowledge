@@ -46,6 +46,8 @@
                 <include>*.cmd</include>
             </includes>
             <lineEnding>windows</lineEnding>
+            <!-- searching for properties in files -->
+            <filtered>true</filtered>
         </fileSet>
     </fileSets>
 </assembly>
